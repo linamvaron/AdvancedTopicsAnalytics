@@ -1,5 +1,5 @@
-##  AdvancedTopicsAnalytics
-# Team:
+#  AdvancedTopicsAnalytics
+## Team:
 * Jenny Ortiz
 * Daniela Parra
 * Manuel Hernández
