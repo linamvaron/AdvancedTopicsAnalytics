@@ -24,8 +24,8 @@ Proyecto 01 Big Monks Detection
 |----------|-------------|
 | Documento |    | 
 | Red Sencilla  | [SimpleNeuralNetwork.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Projects/P0_BigMonksDetection/SimpleNeuralNetwork.ipynb)   |
-| Red Multicapa |  | 
-| Red Convolucional |   | 
-| Red VGG |   |
+| Red Multicapa | [MultilayerNeuralNetwork.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Projects/P0_BigMonksDetection/MultilayerNeuralNetwork.ipynb)   | 
+| Red Convolucional | [ConvolutionalNeuralNetwork.ipynb](hhttps://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Projects/P0_BigMonksDetection/CNN_project-1.ipynb)   | 
+| Red VGG | [VGG316NeuralNetwork.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Projects/P0_BigMonksDetection/VGG-16NeuralNetwork.ipynb)   |
 | Red Resnet50 |  [RestNet50NeuralNetwork.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Projects/P0_BigMonksDetection/RestNet50NeuralNetwork.ipynb)  | 
-| Densidad Poblacional |   | 
+| Densidad Poblacional | [DensityCalculation_GMM.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Projects/P0_BigMonksDetection/DensidadPoblacional.ipynb)   | 
