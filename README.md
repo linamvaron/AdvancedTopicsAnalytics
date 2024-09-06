@@ -15,7 +15,7 @@ Talleres
 | E1- Prediction - Drift | [E1-UsedVehiclePricePredictionDrift.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Exercises/E1-UsedVehiclePricePredictionDrift.ipynb)| 
 | E2- Model Deployment  | [E2-UsedVehiclePricePredictionDeployment.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Exercises/E2-UsedVehiclePricePredictionDeployment.ipynb)|
 | E3- Neural Networks Keras | [E3-NeuralNetworksKeras.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Exercises/E3-NeuralNetworksKeras.ipynb)   | 
-| E4- Tranfer Learning with PyTorch |   | 
+| E4- Transfer Learning with PyTorch | [E4-TransferLearningPytorch.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Exercises/E4-PretrainedModelsPytorch.ipynb)   | 
 
 
 Proyecto 01 Big Monks Detection
