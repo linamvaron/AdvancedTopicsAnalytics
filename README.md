@@ -22,7 +22,7 @@ Proyecto 01 Big Monks Detection
 
 | Modelo   | Enlace | 
 |----------|-------------|
-| Documento |    | 
+| Documento | [P0_BigMonksDetection.pdf](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Projects/P0_BigMonksDetection/P0%20-%20Frailejon%20Detection.pdf)   | 
 | Red Sencilla  | [SimpleNeuralNetwork.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Projects/P0_BigMonksDetection/SimpleNeuralNetwork.ipynb)   |
 | Red Multicapa | [MultilayerNeuralNetwork.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Projects/P0_BigMonksDetection/MultilayerNeuralNetwork.ipynb)   | 
 | Red Convolucional | [ConvolutionalNeuralNetwork.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Projects/P0_BigMonksDetection/CNN_project-1.ipynb)   | 
