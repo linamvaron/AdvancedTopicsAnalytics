@@ -6,7 +6,22 @@
 * Lina Marcela Varón
 * Jenny Ortiz
 
-## Contenido
+## Contenido segundo corte
+
+Talleres
+
+| Taller   | Enlace | 
+|----------|-------------|
+| E1- Sentiment Prediction | [E1-Sentiment_Prediction.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Exercises%20NLP/E1_SentimentPrediction.ipynb)| 
+| E4- Spam Clasification | [E4-Spam_Classification.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Exercises%20NLP/E4_SpamClassification__.ipynb)   | 
+
+
+Proyecto 1 Movie Genre Prediction
+
+| Modelo   | Enlace | 
+|----------|-------------|
+
+## Contenido primer corte
 
 Talleres
 
@@ -18,7 +33,7 @@ Talleres
 | E4- Transfer Learning with PyTorch | [E4-TransferLearningPytorch.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Exercises/E4-PretrainedModelsPytorch.ipynb)   | 
 
 
-Proyecto 01 Big Monks Detection
+Proyecto 0 Big Monks Detection
 
 | Modelo   | Enlace | 
 |----------|-------------|
