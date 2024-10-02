@@ -20,7 +20,7 @@ Proyecto 1 Movie Genre Prediction
 
 | Documento   | Enlace | 
 |----------|-------------|
-|Logistic Regression|[LR_MovieGenrePrediction.ipynb](https://https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Projects/P1%20-%20Movie%20Genre%20Prediction/MovieGenrePrediction.ipynb)|
+|Logistic Regression|[LR_MovieGenrePrediction.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Projects/P1%20-%20Movie%20Genre%20Prediction/MovieGenrePrediction.ipynb)|
 
 ## Contenido primer corte
 
