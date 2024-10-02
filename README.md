@@ -18,8 +18,8 @@ Talleres
 
 Proyecto 1 Movie Genre Prediction
 
-| Modelo   | Enlace | 
-|----------|-------------|
+| Documento   | Enlace | 
+|Logistic Regression|[LR_MovieGenrePrediction.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Exercises/E1-UsedVehiclePricePredictionDrift.ipynb)|
 
 ## Contenido primer corte
 
