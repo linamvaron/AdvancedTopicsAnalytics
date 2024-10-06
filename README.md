@@ -13,7 +13,15 @@ Talleres
 | Taller   | Enlace | 
 |----------|-------------|
 | E1- Sentiment Prediction | [E1-Sentiment_Prediction.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Exercises%20NLP/E1_SentimentPrediction.ipynb)| 
+| E2- HomeworkAnalysis | [E2-HomeworkAnalysis.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Exercises%20NLP/E2_HomeworksAnalysis_(BONO).ipynb)| 
+| E3 -  | | 
 | E4- Spam Clasification | [E4-Spam_Classification.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Exercises%20NLP/E4_SpamClassification__.ipynb)   | 
+| E5 -  | | 
+| E6 -  | | 
+| E7 -  | | 
+| E8- Text Summary | [E8-TextSumary.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Exercises%20NLP/E8_TextSummary.ipynb)   | 
+| E9 -  | | 
+| E10 -  | | 
 
 
 Proyecto 1 Movie Genre Prediction
