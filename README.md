@@ -18,9 +18,9 @@ Talleres
 | E4- Spam Clasification | [E4-Spam_Classification.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Exercises%20NLP/E4_SpamClassification__.ipynb)   | 
 | E5 -  | | 
 | E6 -  | | 
-| E7 -  | | 
+| E7 -  |RNN - LSTM - GRU | [E7_RNN_LSTM_GRU.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Exercises%20NLP/E7_RNN_LSTM_GRU.ipynb) |
 | E8- Text Summary | [E8-TextSumary.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Exercises%20NLP/E8_TextSummary.ipynb)   | 
-| E9 -  | | 
+| E9 - Open AI |  [E9-OpenAI.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Exercises%20NLP/E9_OpenAI.ipynb)  | 
 | E10 -  | | 
 
 
