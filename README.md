@@ -14,7 +14,7 @@ Talleres
 |----------|-------------|
 | E1- Sentiment Prediction | [E1-Sentiment_Prediction.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Exercises%20NLP/E1_SentimentPrediction.ipynb)| 
 | E2- HomeworkAnalysis (Bono) | [E2-HomeworkAnalysis.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Exercises%20NLP/E2_HomeworksAnalysis_(BONO).ipynb)| 
-| E3 - 
+| E3 - Song Embeddings Visualization |[E3__SongEmbeddingsVisualizationVF.ipynb(https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Exercises%20NLP/E3__SongEmbeddingsVisualizationVF.ipynb)|
 | E4- Spam Clasification | [E4-Spam_Classification.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Exercises%20NLP/E4_SpamClassification__.ipynb)   | 
 | E5 -  | | 
 | E6 -  | | 
