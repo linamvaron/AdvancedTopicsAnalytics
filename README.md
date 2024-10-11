@@ -17,8 +17,7 @@ Talleres
 | E3 - Song Embeddings Visualization |[E3__SongEmbeddingsVisualizationVF.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Exercises%20NLP/E3__SongEmbeddingsVisualizationVF.ipynb)|
 | E4- Spam Clasification | [E4-Spam_Classification.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Exercises%20NLP/E4_SpamClassification__.ipynb)   | 
 | E5- NeuralNetworksKerasNLP | [E5_NeuralNetworksKerasNLP.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Exercises%20NLP/E5_NeuralNetworksKerasNLP.ipynb)   | 
--- | E5 - NeuralNetworksKerasNLP  | [E5_NeuralNetworksKerasNLP.ipynb] (https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Exercises%20NLP/E5_NeuralNetworksKerasNLP.ipynb) | 
-| E6 - Neuronal Network PyTorch |[E6_NeuralNetworksPyTorchNLP_ .ipynb] (https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Exercises%20NLP/E6_NeuralNetworksPyTorchNLP_%20.ipynb) | 
+| E6 - Neuronal Network PyTorch | [E6 - Neuronal Network PyTorch.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Exercises%20NLP/E6_NeuralNetworksPyTorchNLP_%20.ipynb)   | 
 | E7 - RNN - LSTM - GRU | [E7_RNN_LSTM_GRU.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Exercises%20NLP/E7_RNN_LSTM_GRU.ipynb) |
 | E8- Text Summary | [E8-TextSumary.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Exercises%20NLP/E8_TextSummary.ipynb)   | 
 | E9 - QuestionAnswer | |
