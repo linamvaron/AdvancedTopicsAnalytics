@@ -20,7 +20,7 @@ Talleres
 | E6 - Neuronal Network PyTorch | [E6 - Neuronal Network PyTorch.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Exercises%20NLP/E6_NeuralNetworksPyTorchNLP_%20.ipynb)   | 
 | E7 - RNN - LSTM - GRU | [E7_RNN_LSTM_GRU.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Exercises%20NLP/E7_RNN_LSTM_GRU.ipynb) |
 | E8- Text Summary | [E8-TextSumary.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Exercises%20NLP/E8_TextSummary.ipynb)   | 
-| E9 - QuestionAnswer | |
+| E9 - QuestionAnswer | [E8_QuestionAnswer.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Exercises%20NLP/E8_QuestionAnswer.ipynb)|
 | E10 - Open AI |  [E9-OpenAI.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Exercises%20NLP/E9_OpenAI.ipynb)  | 
  
 
