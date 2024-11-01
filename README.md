@@ -6,6 +6,24 @@
 * Lina Marcela Varón
 * Jenny Ortiz
 
+## Contenido tercer corte
+
+Talleres
+
+| Taller   | Enlace | 
+|----------|-------------|
+| E10 - Twitter Analysis | | 
+| E11 - Patent Citation Network (Node2Vec with RecSys) | | 
+| L30 - Graph Neural Networks - Facebook Page-Page dataset ||
+| L32 - Graph Convolutional Networks - Facebook Page-Page dataset | [E4-Spam_Classification.ipynb]   | 
+| L34 - Graph Attention Networks - Cite Seer |  | 
+
+Proyecto 2 - Graphs
+
+| Documento   | Enlace | 
+|----------|-------------|
+
+
 ## Contenido segundo corte
 
 Talleres
