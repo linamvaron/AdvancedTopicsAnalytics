@@ -22,7 +22,7 @@ Proyecto 2 - Graphs
 
 | Documento   | Enlace | 
 |----------|-------------|
-|  |  | 
+| Exploración de datos | Network_Analysis.ipynb | 
 
 
 ## Contenido segundo corte
