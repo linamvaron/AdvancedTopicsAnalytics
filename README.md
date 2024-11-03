@@ -22,7 +22,7 @@ Proyecto 2 - Graphs
 
 | Documento   | Enlace | 
 |----------|-------------|
-| Exploración de datos | Network_Analysis.ipynb | 
+| Exploración de datos | [Network_Analysis.ipynb ](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Projects/P2%20-%20Graph%20Machine%20Learning/Network_Analysis.ipynb)| 
 
 
 ## Contenido segundo corte
