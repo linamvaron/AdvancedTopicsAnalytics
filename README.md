@@ -22,14 +22,13 @@ Proyecto 2 - Graphs
 
 | Documento   | Enlace | 
 |----------|-------------|
+| Documento del proyecto grafos | [Proyecto grafos.pdf ](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Projects/P2%20-%20Graph%20Machine%20Learning/Proyecto%20grafos.pdf)| 
 | Exploración de datos | [Network_Analysis.ipynb ](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Projects/P2%20-%20Graph%20Machine%20Learning/Network_Analysis.ipynb)| 
 | Proyecto Network Configuración inicial de embeddings y sin balancear | [Proyecto_Network.ipynb ](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Projects/P2%20-%20Graph%20Machine%20Learning/Proyecto_NetWork.ipynb)| 
 | Proyecto Network Balanceado| [Proyecto_Network_Balanceado.ipynb ](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Projects/P2%20-%20Graph%20Machine%20Learning/Proyecto_Network_Balanceado_.ipynb)| 
 | Proyecto Network Average Edge Embeddings| [Proyecto_Network_Average_Edge_Embeddings.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Projects/P2%20-%20Graph%20Machine%20Learning/Proyecto_Network_Average_Edge_Embeddings.ipynb)| 
 | Proyecto Network Balanceado Sintonizado | [Proyecto_Network_Balanceado_Sintonizado.ipynb ](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Projects/P2%20-%20Graph%20Machine%20Learning/Proyecto_Network_Balanceado_Sintonizado.ipynb)| 
 | Proyecto Network Escalado y con XGboost | [Proyecto Network Escalado y con XGboost.ipynb ](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Projects/P2%20-%20Graph%20Machine%20Learning/Quinta%20Iteracio%CC%81n.ipynb)| 
-
-
 
 
 ## Contenido segundo corte
