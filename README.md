@@ -14,6 +14,7 @@ Talleres
 |----------|-------------|
 | E10 - Twitter Analysis | [E10-TwitterAnalysis.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Exercises%20Graphs/E10_TwitterNetworkAnalysis.ipynb) | 
 | E11 - Patent Citation Network (Node2Vec with RecSys) | [E11-PatentCitationNetwork.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Exercises%20Graphs/E11_PatentCitationNetwork.ipynb) | 
+| E28 - E28_GraphNeuralNetworks | [E28_GraphNeuralNetworks.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Exercises%20Graphs/E28_GraphNeuralNetworks.ipynb) | 
 | L30 - Graph Neural Networks - Facebook Page-Page dataset |  [L30-GraphNeuralNetworks.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Exercises%20Graphs/L30_GraphConvolutionalNetworks_NodeClassification.ipynb)|
 | L32 - Graph Convolutional Networks - Facebook Page-Page dataset | | 
 | L34 - Graph Attention Networks - Cite Seer | [L34_GraphAttentionNetworks_CiteSeer.ipynb](https://github.com/linamvaron/AdvancedTopicsAnalytics/blob/main/Exercises%20Graphs/L34_GraphAttentionNetworks_CiteSeer.ipynb)| 
